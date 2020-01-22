@@ -117,7 +117,8 @@ class Contact extends React.Component {
                 >
                     {this.showContactForm && (
                         <div className="col s12 m6">
-                            <form data-netlify="true">
+                            <form name="Contact Form" method="POST" data-netlify="true">
+                                <input type="hidden" name="form-name" value="Contact Form" />
                                 <div className="field">
                                     <label htmlFor="name">
                                         <span className="label text-tertiary">
