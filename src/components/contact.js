@@ -40,7 +40,7 @@ class Contact extends React.Component {
                 message = encodeURI(this.dataMessage.value),
                 body = `name=${name}&email=${email}&message=${message}`;
 
-            fetch("http://localhost/local/test.json", {
+            fetch("test.json", {
                 method: "post",
                 body: body
             })
