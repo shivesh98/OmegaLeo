@@ -45,8 +45,8 @@ template: basepage
 <!--div>Director of Events<div-->
 
 <p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
-  <img src="radhesh.JPG" style="width: 100%">
-  LEO Radhesh Bhatia<br>( Director of Events )
+  <img src="aayush.JPG" style="width: 100%">
+  LEO Aayush Verma<br>( Director of External Affairs )
 </p>
 <p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
   <img src="aditya.JPG" style="width: 100%">
@@ -55,7 +55,11 @@ template: basepage
 
 <p style="clear: both;">
 
-<p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-left: 23%; margin-bottom: 0.5em;">
+<p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img src="radhesh.JPG" style="width: 100%">
+  LEO Radhesh Bhatia<br>( Director of Events )
+</p>
+<p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
   <img src="shruti.JPG" style="width: 100%">
   LEO Shruti Singh<br>( Director of Events )
 </p>
@@ -78,25 +82,13 @@ template: basepage
 <!--div>Director of External & Photography<div-->
 
 <p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
-  <img src="aayush.JPG" style="width: 100%">
-  LEO Aayush Verma<br>( Director of External Affairs )
-</p>
-<p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
   <img src="umang.JPG" style="width: 100%">
-  LEO Saumya Jajodia<br>( Director of Technical & Photography )
+  LEO Umang Maheshwari<br>( Director of Technical & Photography )
 </p>
-
-<p style="clear: both;">
-
-<!--div>Senior Members<div-->
-
 <p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
   <img src="rohit.JPG" style="width: 100%">
   LEO Rohit Ranjan<br>( Senior Member )
 </p>
-<p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
-  <img src="https://drive.google.com/open?id=1Be9S3ZCBgr_rJAqN7bJJT3KzWAGrTpLs" style="width: 100%">
-  LEO Deepesh Mittal<br>( Senior Member )
-</p>
 
 <p style="clear: both;">
+
