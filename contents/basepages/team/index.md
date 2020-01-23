@@ -95,7 +95,7 @@ template: basepage
   LEO Rohit Ranjan<br>( Senior Member )
 </p>
 <p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
-  <img src="deepesh.JPG" style="width: 100%">
+  <img src="https://drive.google.com/open?id=1Be9S3ZCBgr_rJAqN7bJJT3KzWAGrTpLs" style="width: 100%">
   LEO Deepesh Mittal<br>( Senior Member )
 </p>
 
