@@ -44,6 +44,7 @@ template: basepage
 
 <!--div>Director of Events<div-->
 
+
 <p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
   <img src="aayush.JPG" style="width: 100%">
   LEO Aayush Verma<br>( Director of External Affairs )
@@ -81,6 +82,7 @@ template: basepage
 
 <!--div>Director of External & Photography<div-->
 
+
 <p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
   <img src="umang.JPG" style="width: 100%">
   LEO Umang Maheshwari<br>( Director of Technical & Photography )
@@ -92,3 +94,12 @@ template: basepage
 
 <p style="clear: both;">
 
+<!--div>Senior Members<div-->
+
+
+<p style="float: left; font-size: 14pt; text-align: center; width: 45%; margin-right: 1%; margin-bottom: 0.5em;">
+  <img src="deepesh.JPG" style="width: 100%">
+  LEO Deepesh Mittal<br>( Senior Member )
+</p>
+
+<p style="clear: both;">
