@@ -71,13 +71,13 @@ class IndexPage extends React.Component {
                     </div>
                 </div>
 
-                <section className="container" style={{ backgroundColor: '#262933', borderRadius: '20px', textAlign: 'center' }}>
+                <!--section className="container" style={{ backgroundColor: '#262933', borderRadius: '20px', textAlign: 'center' }}>
                     <div style={{ color: '#b8b7bf' }}>
                         <h5 style={{ padding: '50px' }}>Upcoming Event</h5>
                         <h3 style={{ padding: '20px' }}>Donation Drive</h3>
                         <p>Date: January 26, 2020</p>
                     </div>
-                </section>
+                </section-->
 
                 <section className="container" style={{ paddingBottom: '100px' }}>
                     <div>
