@@ -9,6 +9,7 @@ let siteMetadata = {
     author: `@shivesh98`,
     eventsItemsPerPage: 10,
     galleryItemsPerPage: 10,
+    url: "https://www.omegaleowakna.netlify.com",
     darkmode: true,
     switchTheme: true,
     navLinks: [
