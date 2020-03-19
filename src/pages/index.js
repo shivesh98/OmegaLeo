@@ -7,6 +7,7 @@ import "../style/wall.less";
 import { Zoom } from "react-reveal";
 import SectionTitle from "../components/sectiontitle";
 import lions from "../../static/images/lions.png"
+import Helmet from "react-helmet";
 
 class IndexPage extends React.Component {
     constructor(props) {
@@ -33,6 +34,9 @@ class IndexPage extends React.Component {
                     className="wall"
                     style={{ height: this.state.winHeight + "px" }}
                 >
+                    <Helmet>
+                        <meta name="google-site-verification" content="Ypv5DAt4oGtEd9uZgeWGEw1hgBvxqh1aKSn1nR3694s" />
+                    </Helmet>
                     <div className="intro container">
 
                         <div className="main-title text-primary" style={{ fontStyle: 'bold', color: '#f3ab29' }}>
